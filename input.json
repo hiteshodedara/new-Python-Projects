@@ -1,0 +1,26 @@
+[
+  {
+    "context": "You meet a friend at a cafe.",
+    "question": "How are you doing today?"
+  },
+  {
+    "context": "You're chatting with someone about hobbies.",
+    "question": "What are your favorite activities in your free time?"
+  },
+  {
+    "context": "You are helping a friend troubleshoot a computer issue.",
+    "question": "Can you suggest a solution for the slow performance of my laptop?"
+  },
+  {
+    "context": "You're talking to a friend about movies.",
+    "question": "Any good movie recommendations for the weekend?"
+  },
+  {
+    "context": "You're discussing plans for a birthday party.",
+    "question": "What theme do you think would be fun for the party?"
+  },
+  {
+    "context": "You're journaling about your day.",
+    "question": "What was the highlight of your day?"
+  }
+]
